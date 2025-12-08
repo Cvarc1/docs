@@ -1,0 +1,2 @@
+hi_name ='Hi, Pycharm'
+print(hi_name)
