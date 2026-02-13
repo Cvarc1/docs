@@ -73,6 +73,9 @@ model("penny.h5")
 print(model)
 print({X_test})
 print("penny.h5")
+print(cv2)
+print(filename)
+print(img)
 
 
 
