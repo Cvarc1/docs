@@ -25,4 +25,5 @@ for image_path in ["coins-2.jpg", "coins-3.jpg"]:
         cv2 = f"dataset/{idx}.jpg", img[y - r:y + r]
         idx += 1
         print(cv2)
+        print(img[y - r:y + r])
 
